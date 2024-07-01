@@ -1,0 +1,25 @@
+*{
+    
+}
+h1{
+    color:red
+}
+.green{
+    color:green
+}
+.blue{
+    color:blue
+}
+
+#reboot{
+    background-color: aquamarine;
+}
+#boot{
+    background-color:chartreuse;
+}
+.p{
+    background-color: red;
+}
+p{
+    color:blue
+}
